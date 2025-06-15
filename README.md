@@ -1,2 +1,2 @@
 # Numpy
-Basic functions of Numpy library
+Basic functions and implementations of Numpy library
